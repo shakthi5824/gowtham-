@@ -942,6 +942,20 @@ section.heading-outer h2{
     opacity: 0;
     animation: showContent 0.5s 1.6s linear 1 forwards;
 }
+.contact-left-icon .contact-icon-common:nth-child(4){
+    animation-delay:2s;
+    transform: translate(50px);
+    filter: blur(20px);
+    opacity: 0;
+    animation: showContent 0.5s 1.8s linear 1 forwards;
+}
+.contact-left-icon .contact-icon-common:nth-child(5){
+    animation-delay:2.2s;
+    transform: translate(50px);
+    filter: blur(20px);
+    opacity: 0;
+    animation: showContent 0.5s 2s linear 1 forwards;
+}
 
 .contact-right{
     animation-delay:1s;
